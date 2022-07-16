@@ -2,6 +2,8 @@
 
 Métiers : Développement Front-End / Société : Lyocode Consulting
 
+Création d'un site web pour l'entreprise taximedia
+
 Les taches réalisées : 
 
 -> Réalisation d'une maquette dédiée au site web.
